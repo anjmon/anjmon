@@ -2,4 +2,4 @@
 - 👀 I’m interested in Python and Data Science
 - 🌱 I’m currently learning Time Series Analysis, Git and Linux
 - 💞️ I’m looking to collaborate on Open Source Python libraries related to Data Science development
-- 📫 Reach me at [X](www.X.com/dat_anjan)
+- 📫 Reach me at [X](https://x.com/dat_anjan)
